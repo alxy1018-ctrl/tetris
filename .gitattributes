@@ -1,0 +1,4 @@
+# 统一换行：仓库里存 LF，检出时按各平台习惯转换，避免整文件被当成改动
+* text=auto eol=lf
+*.html text
+*.md text

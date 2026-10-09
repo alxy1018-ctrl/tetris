@@ -1,0 +1,10 @@
+# 这个项目只有一个 HTML 文件，没有依赖，正常不需要忽略任何东西。
+# 下面只挡系统与编辑器留下的杂物。
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+.vscode/
+.idea/
